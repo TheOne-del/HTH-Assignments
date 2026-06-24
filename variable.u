@@ -1,0 +1,6 @@
+name = "Mezeeh Dolakeh"
+
+print(name)
+
+movies = ["transformers","Zambizia"]
+print(movies)
